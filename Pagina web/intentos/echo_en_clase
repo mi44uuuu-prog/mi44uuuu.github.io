@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> <div>
+        <h1>los fantásticos y  donde encontrarlos</h1>
+   <p>loerm ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   </p>
+   <h2>Ubicación de los los fantásticos</h2>
+    <p>loerm ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+    <ul>
+        <li>Ubicación 1</li>
+        <li>Ubicación 2</li>
+        <li>Ubicación 3</li>
+ </ul>
+ <ol>
+     <li>Ubicación 1</li>
+     <li>Ubicación 2</li>
+     <li>Ubicación 3</li>
+</ol>
+<areas>
+    <h2>Tipos de los fantásticos</h2>
+    <p>loerm ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+    <table>
+        <tr>
+            <th>Tipo</th>
+            <th>Descripción</th>
+        </tr>
+        <tr>
+            <td>Tipo 1</td>
+            <td>Descripción del tipo 1</td>
+        </tr>
+        <tr>
+            <td>Tipo 2</td>
+            <td>Descripción del tipo 2</td>
+        </tr>
+        <tr>
+            <td>Tipo 3</td>
+            <td>Descripción del tipo 3</td>
+        </tr>
+    </table>
+
+<article>
+    <h2>Artículo sobre los fantásticos</h2>
+    <p>loerm ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>  
+    <article>
+        <h3>Subartículo sobre los fantásticos</h3>
+        <p>loerm ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        <hr>
+        
+    </article>
+    <address>
+        <h2>Contacto</h2>   
+        <p>Dirección: Calle Falsa 123, Ciudad, País</p>
+        <p>Correo electrónico:
+        </p>
+    </address>
+    <a href="https://www.example.com" target="_blank">Visitar sitio web</a>
+    
+</article>
+</areas>
+</div>
+
+    
+    
+
+
+   
+    <aside>
+        <h2>Información adicional</h2>
+        <p>loerm ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>    
+    </aside>
+    <audio controls>
+        <source src="audio.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <button onclick="alert('¡Hola!')">Haz clic aquí</button>    
+    <base href="https://www.example.com/">  <bdi>Texto bidireccional</bdi> es un elemento que permite mostrar texto en direcciones de lectura diferentes.
+    <bdo dir="rtl">Texto de derecha a izquierda</bdo> es un elemento que permite cambiar la dirección del texto.
+ </div>
+ <blockquote>
+    <p>loerm ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br> quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p></blockquote>
+    <cite>Fuente: Ejemplo de cita</cite>
+    <code>console.log('Hola, mundo!');</code>
+    <button onclick="alert('¡Hola!')">Haz clic aquí</button>
+    <details>  
+     <ol>
+        <li>Elemento 1</li>
+        <li>Elemento 2</li>
+        <li>Elemento 3</li>
+    </ol>
+    <canvas id="myCanvas" width="200" height="100" style="border:1px solid #850c0c;">
+        Your browser does not support the canvas element.   </canvas>
+    </details>
+  <code>console.log('Hola, mundo!');</code>
+   
+    <dialog id="myDialog">
+        <p>Este es un cuadro de diálogo.</p>
+        <button onclick="document.getElementById('myDialog').close();">Cerrar</button>
+    </dialog>
+    <button onclick="document.getElementById('myDialog').showModal();">Abrir diálogo</button>
+    <form action="/submit" method="post">
+        <label for="name">Nombre:</label>
+        <input type="text" id="name" name="name" required>
+        <input type="submit" value="Enviar">
+    </form>
+    <fieldset>
+        <legend>Información personal</legend>
+        <label for="age">Edad:</label>
+        <input type="number" id="age" name="age" min="0" max="120">
+    </fieldset>
+    <footer>
+        <p>&copy; 2024 Mi Sitio Web. Todos los derechos reservados.</p>
+    </footer>
+<ol>
+    <li>Elemento 1</li>
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+</ol>
